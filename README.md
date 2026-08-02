@@ -152,15 +152,18 @@ Machine Learning
 
 # 📈 GitHub Dashboard
 
-```markdown
-![Stats](https://github-readme-stats.vercel.app/api?username=HarshitaDeewan9&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaDeewan9&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaDeewan9&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=HarshitaDeewan9&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HarshitaDeewan9&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaDeewan9&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshitaDeewan9&theme=tokyo-night)
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaDeewan9&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ---
 
